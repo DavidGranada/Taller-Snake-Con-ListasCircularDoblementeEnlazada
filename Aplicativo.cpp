@@ -3,16 +3,16 @@
 UNIVERSIDAD DE LAS FUERZAS ARMADAS - "ESPE"
 ============================================================
 Tema:		LISTAS CIRCULARES DOBLEMENTE ENLAZADAS
-Carrera:	Ingeniería en Sistemas
+Carrera:	IngenierÃ­a en Sistemas
 Profesor:	Ing. Fernando Solis
 Integrantes:		Granada David
 					Ivan Conejo
 					Francisco Sanpedro
 ============================================================
-Fecha Creación:		20/11/17
-Fecha Modificación:	20/11/17
+Fecha CreaciÃ³n:		20/11/17
+Fecha ModificaciÃ³n:	20/11/17
 ============================================================
-PRUEBA PARCIAL I .- Generar una lista circular doblemente enlazadante.
+PRUEBA PARCIAL I .- Generar una lista circular doblemente enlazada.
 ============================================================
 */
 #include <windows.h>
